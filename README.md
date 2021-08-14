@@ -1,4 +1,5 @@
-### Hi there, I'm Edoardo. 👋
+## Hi there, I'm Edoardo. 👋
+
 
 Currently a researcher @ LINKS Foundation and PhD student @ PoliTo.
 
@@ -7,6 +8,7 @@ Currently a researcher @ LINKS Foundation and PhD student @ PoliTo.
 - ✨ Passionate about computer graphics and game development.
 
 - 📫 edoardo.arnaudo[at]polito.it
+
 
 <!--
 **edornd/edornd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
