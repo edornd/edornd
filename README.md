@@ -1,7 +1,7 @@
 ## Hi there, I'm Edoardo. 👋
 
 
-Currently a researcher @ LINKS Foundation and PhD student @ PoliTo.
+Currently a researcher @ LINKS Foundation, PhD in Computer and Control Engineering @ PoliTo.
 
 - 🔭 Learning and working on Computer Vision (mainly) applied to aerial and satellite imagery.
 
