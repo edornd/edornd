@@ -3,11 +3,11 @@
 
 Currently a researcher @ LINKS Foundation, PhD in Computer and Control Engineering @ PoliTo.
 
-- 🔭 Learning and working on Computer Vision (mainly) applied to aerial and satellite imagery.
+- 🔭 Working and doing research on Computer Vision (mainly) applied to aerial and satellite imagery.
 
 - ✨ Passionate about computer graphics and game development.
 
-- 📫 edoardo.arnaudo[at]polito.it
+- 📫 edoardo.arnaudo[at]polito[dot]it | linksfoundation[dot]com
 
 
 <!--
